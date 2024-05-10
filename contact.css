@@ -1,0 +1,63 @@
+
+
+            *{
+                padding: 0;
+                margin: 0;
+            }
+
+            body{
+            font-family: "Young Serif",serif;
+             }
+             .section-one{
+                background-color: black;
+                color: white;
+                padding: 20px;
+             }
+             .section-1__name{
+                font-size: 60px;
+             }
+             .section-1__tittle{
+                font-size: 30px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+             }
+             .section-1__link{
+                background-color: orangered;
+                color: white;
+                padding-left: 10px;
+                padding-right: 10px;
+                padding-top: 5px;
+                padding-bottom: 5px;
+                margin-top: 10px;
+                text-decoration: none;
+             }
+             .section-2{
+                margin-top: 20px;
+                margin-bottom: 20px;
+                
+             }
+             .container{
+                padding: 50px;
+             }
+             .section-2__name{
+                padding-top: 20px;
+                padding-bottom: 20px;
+               
+             }
+             .section-2__email{
+               
+        padding-top: 20px;
+        padding-bottom: 20px;
+
+             }
+             .section-2__address{
+                padding-top: 20px;
+                padding-bottom: 20px;
+             }
+             .section-3{
+                background-color: black;
+                color: white;
+                padding: 20px;
+                margin-top: 10px;
+             }
+    
